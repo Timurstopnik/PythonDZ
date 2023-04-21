@@ -1,0 +1,5 @@
+a= float(input('input first number: '))
+b= float(input('input second nuber: '))
+c= float(input('input third number: '))
+d= float(input('input fourth number: '))
+print(a*b*c*d)
