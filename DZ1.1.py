@@ -1,0 +1,5 @@
+a = int(input('input number 1: '))
+b = int(input('input number 2: '))
+c = int(input('input number 3: '))
+print(a+b+c)
+print(a*b*c)
